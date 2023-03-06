@@ -1,0 +1,9 @@
+{
+	"name": "GitHubRepoDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c93c4201-723f-426c-b3c1-01125d76d408",
+		"tenantId": "a4366ed1-97f4-42cd-9f53-3625abc39fc5"
+	}
+}
