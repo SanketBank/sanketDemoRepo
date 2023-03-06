@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "GitHubRepoDemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
